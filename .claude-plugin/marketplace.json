@@ -1,0 +1,13 @@
+{
+  "name": "mcps-internal",
+  "owner": { "name": "TIS Web Team" },
+  "version": "1.0.0",
+  "description": "Internal Claude Code plugins for the MCPS TIS web team",
+  "plugins": [
+    {
+      "name": "dotnet-toolkit",
+      "source": "./plugins/dotnet-toolkit",
+      "description": "Shared .NET/C# skills and team standards for our ASP.NET Core stack"
+    }
+  ]
+}
