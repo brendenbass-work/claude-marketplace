@@ -1,0 +1,6 @@
+{
+  "name": "dotnet-toolkit",
+  "version": "0.2.0",
+  "description": "UI (Approval Process design language), repo-standardization, and workflow skills for our ASP.NET Core / C# stack",
+  "author": { "name": "TIS Web Team" }
+}
